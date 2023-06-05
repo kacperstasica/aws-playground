@@ -1,0 +1,10 @@
+variable "code_deploy_app_name" {}
+variable "code_deploy_service_role_name" {}
+variable "code_deploy_compute_platform" {}
+variable "image_name" {}
+variable "public_key_path" {}
+variable "my_ip" {}
+variable "vpc_id" {}
+variable "subnet_id" {}
+variable "availability_zone" {}
+variable "s3_object_source_path" {}
